@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Civil Site Engineer",
+    "company": "Shree Constructions Pvt Ltd",
+    "location": "Bhubaneswar",
+    "type": "Full-time",
+    "salary": "5 LPA",
+    "description": "Supervise construction activities at site and ensure project completion as per drawings and safety standards.",
+    "skills": ["AutoCAD", "Site Supervision", "Project Management", "Construction Planning"]
+  },
+  {
+    "title": "Project Manager - Construction",
+    "company": "Skyline Infrastructure",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "salary": "12 LPA",
+    "description": "Manage residential and commercial building projects, coordinate with contractors and ensure timely delivery.",
+    "skills": ["Project Planning", "Budget Management", "Team Leadership", "MS Project"]
+  },
+  {
+    "title": "Quantity Surveyor",
+    "company": "BuildRight Developers",
+    "location": "Delhi",
+    "type": "Full-time",
+    "salary": "7 LPA",
+    "description": "Prepare cost estimates, manage project budgets, and handle billing and tender documentation.",
+    "skills": ["Cost Estimation", "Tendering", "Billing", "Excel"]
+  },
+  {
+    "title": "Construction Supervisor",
+    "company": "UrbanEdge Builders",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "salary": "4.5 LPA",
+    "description": "Monitor daily construction work and coordinate between workers and engineers.",
+    "skills": ["Site Monitoring", "Labor Management", "Safety Compliance"]
+  },
+  {
+    "title": "Structural Engineer",
+    "company": "Prime Structures Ltd",
+    "location": "Chennai",
+    "type": "Full-time",
+    "salary": "9 LPA",
+    "description": "Design and analyze structural components for buildings and infrastructure projects.",
+    "skills": ["Structural Analysis", "ETABS", "STAAD Pro", "Reinforced Concrete Design"]
+  },
+  {
+    "title": "Safety Officer",
+    "company": "GreenField Constructions",
+    "location": "Pune",
+    "type": "Part-time",
+    "salary": "3.5 LPA",
+    "description": "Ensure workplace safety standards are followed and conduct safety audits at construction sites.",
+    "skills": ["Safety Regulations", "Risk Assessment", "Site Inspection"]
+  },
+  {
+    "title": "Site Accountant",
+    "company": "MetroBuild Projects",
+    "location": "Kolkata",
+    "type": "Full-time",
+    "salary": "4 LPA",
+    "description": "Handle site-level financial records, vendor payments, and expense tracking.",
+    "skills": ["Accounting", "Tally", "GST", "Financial Reporting"]
+  }
+]
