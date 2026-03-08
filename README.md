@@ -74,5 +74,5 @@ export default defineConfig([
 ])
 ```
 ```
-HELLO RAHUL NAMASTE .....HOW ARE YOU DOING I M FROM INDIA
+HELLO RAHUL NAMASTE ....
 ```
